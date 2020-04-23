@@ -2,7 +2,7 @@ function getPlayersOnServer(){
 
 
   //Server IP you with to gather information on
-  var IP = "play.gunn.in";
+  var IP = "insanecraft.virtus.host";
   //The name of the google sheet that you would like for the script to run on
   //default sheet name is Sheet1 I believe
   var SHEETNAME = "Sheet1";
